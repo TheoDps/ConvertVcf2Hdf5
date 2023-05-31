@@ -25,7 +25,7 @@ export NXF_HOME=../../nextflowcache
 
 nextflow_path=../../tools/  # Path to Nextflow executable, no need to adjust if folder structure is same as recommended in cookbook.
 
-cohortname="GAIT2_RNAseq"
+cohortname="GAIT2"
 genopath=../../2_Imputation/output/postimpute   # Folder with input genotype files in .vcf.gz format
 outputpath=../output/ # Path to output folder, no need to adjust if the folder structure is same as recommended in cookbook.
 
